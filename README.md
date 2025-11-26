@@ -19,4 +19,4 @@
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-[![Prompipat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prompipat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Prompipat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prompipat&show_icons=true&theme=tokyonight)](https://github.com/prompipat/github-readme-stats)
